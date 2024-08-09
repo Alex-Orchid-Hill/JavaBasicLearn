@@ -15,6 +15,7 @@
 
         <!--第三方工具 相关版本依赖-->
         <guava.version>31.0.1-jre</guava.version>
+        <hutool.version>5.7.19</hutool.version>
     </properties>
     <dependencies>
         <dependency>
@@ -28,6 +29,12 @@
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>${guava.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>${hutool.version}</version>
         </dependency>
     </dependencies>
 
