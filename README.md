@@ -1,9 +1,2 @@
-## Java基础项目
-
----
-
-#### 简介：
-
-用来学习语雀相关收藏知识的示例的小项目
-#### 目标：
-重新复习，获得新的感悟~
+# JavaBasicLearn
+This a project used for practising basic skill~!
